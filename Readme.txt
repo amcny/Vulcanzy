@@ -1,6 +1,2 @@
-Thanks for downloading this theme!
-
-Theme Name: TheEvent
-Theme URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+#Vulcanzy 2024
+This is a sample website for showing all about Vulcanzy 2024
